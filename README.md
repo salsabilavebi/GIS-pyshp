@@ -32,6 +32,6 @@ soal 10
 
 1194066 mod 8 = 2, maka saya harus membuat bujur sangkar.Kemudian karena angka kedua terakhir dari NPM saya adalah 6 maka ada 6 bujur sangkar.
 
+![10](https://user-images.githubusercontent.com/61673247/139842618-e393b48f-edce-497e-b92a-7d55cc0c56df.jpg)
 
-![10](https://user-images.githubusercontent.com/61673247/139832417-d3c4e167-8e71-4981-9cfa-e44d88a0c297.jpg)
 
