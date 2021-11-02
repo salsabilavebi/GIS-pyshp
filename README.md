@@ -1,4 +1,5 @@
 # Screenshot soal 1-10
+# Salsabila Vebi Natasya (1194066)
 
 soal 1
  ![aa](https://user-images.githubusercontent.com/61673247/139830750-a385a05d-8614-41c8-8017-7682591749f2.png)
