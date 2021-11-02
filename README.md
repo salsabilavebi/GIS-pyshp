@@ -28,5 +28,9 @@ soal 9
 ![09](https://user-images.githubusercontent.com/61673247/139832161-3c97a410-aa34-4af3-a3f7-68a6778cfba4.jpg)
 
 soal 10 
+
+1194066 mod 8 = 2, maka saya harus membuat bujur sangkar.Kemudian karena angka kedua terakhir dari NPM saya adalah 6 maka ada 6 bujur sangkar.
+
+
 ![10](https://user-images.githubusercontent.com/61673247/139832417-d3c4e167-8e71-4981-9cfa-e44d88a0c297.jpg)
 
